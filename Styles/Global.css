@@ -1,0 +1,80 @@
+body {
+	background-color: #000;
+	color: #fff;
+}
+button {
+	color: #000;
+}
+
+fieldset {
+    margin-bottom: 140px;
+}
+
+article img {
+    width: 320px;
+}
+
+.button_margin {
+    margin-bottom: 40px;
+}
+
+.cost-nav {
+	background-color:#FFFFFF;
+	color: #fff;
+    border: none;
+    border-radius:0;
+}
+
+.bgimage {
+	background: url("../img/destiny-2.jpg") no-repeat;
+	background-size: 100%;
+
+}
+
+.texta {
+	text-align: center;
+}
+
+.Avatar {
+    margin-left: 75px;
+}
+
+#hshadow {
+    text-shadow: 0px 5px 10px rgba(0, 0, 0, 1);
+}
+
+#P_shadow {
+    text-shadow: 0px 5px 10px rgba(0, 0, 0, 1);
+}
+
+#form_custom {
+    background-color: #000; 
+    border: none;
+}
+#contact_H2 {
+    color: #fff;
+}
+
+.logo {
+    background-image: url("../img/1796962-1614269_abstergo_industries_logo_by_milanvend_large.jpg");
+    padding-right: 35px;
+}
+
+.custfont {
+    font-family: 'gamecubendualset', Serif;
+    font-weight: none;
+}
+
+@font-face {
+    font-family: 'gamecubendualset';
+    src: url('../font/gamecube-webfont.eot');
+    src: url('../font/gamecube-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/gamecube-webfont.woff2') format('woff2'),
+         url('../font/gamecube-webfont.woff') format('woff'),
+         url('../font/gamecube-webfont.ttf') format('truetype'),
+         url('../font/gamecube-webfont.svg#gamecubendualset') format('svg');
+         font-weight: normal;
+     }
+
+
+
