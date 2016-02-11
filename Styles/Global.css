@@ -6,6 +6,14 @@ button {
 	color: #000;
 }
 
+article img {
+    width: 320px;
+}
+
+.button_margin {
+    margin-bottom: 40px;
+}
+
 .cost-nav {
 	background-color:#FFFFFF;
 	color: #fff;
