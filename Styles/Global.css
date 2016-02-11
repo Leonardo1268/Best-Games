@@ -35,8 +35,16 @@ article img {
 	text-align: center;
 }
 
+.Avatar {
+    margin-left: 75px;
+}
+
 #hshadow {
-    text-shadow: 0px 5px 10px rgba(142, 134, 134, 1);
+    text-shadow: 0px 5px 10px rgba(0, 0, 0, 1);
+}
+
+#P_shadow {
+    text-shadow: 0px 5px 10px rgba(0, 0, 0, 1);
 }
 
 #form_custom {
