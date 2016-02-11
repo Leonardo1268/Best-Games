@@ -1,2 +1,2 @@
 # Best-Games
-This is a responsive website about video games that i made
+This is a responsive website about the best video games
